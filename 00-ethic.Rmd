@@ -1,0 +1,9 @@
+
+# Ethic form {-}
+
+```{r ethic, echo=FALSE, out.width="80%", fig.align='center'}
+knitr::include_graphics("figures/ethic_form.png")
+```
+
+
+

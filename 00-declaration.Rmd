@@ -1,0 +1,5 @@
+# Declaration {-}
+
+```{r declaration, echo=FALSE, out.width="80%", fig.align='center'}
+knitr::include_graphics("figures/student_declaration.png")
+```
